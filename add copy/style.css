@@ -1,0 +1,43 @@
+
+    .green
+    {
+      color:blue;
+    }
+    .black
+    {
+      color:rgb(223, 18, 18);
+    }
+      /* p
+      {
+        color:blue;
+        font-size: larger;
+      }
+      h1{
+        background-color: rgb(230, 12, 12);
+      } h2{
+        background-color: aqua;
+      }
+      table{
+        border: 10px solid black;
+      } */
+      /* .ab{
+        font-size: larger;
+      }.bc{
+        font-size: small;
+      } */
+      /* #random
+      {
+        color:brown;
+      } */
+      /* #ran{
+        color:green; 
+      } */
+      button:hover{
+        color:yellow;
+      }
+      a:hover{
+        color:red;
+      }
+      p:hover{
+        color:blue;
+      }
